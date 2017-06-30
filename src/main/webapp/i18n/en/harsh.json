@@ -1,0 +1,21 @@
+{
+    "gApp": {
+        "harsh" : {
+            "home": {
+                "title": "Harshes",
+                "createLabel": "Create a new Harsh",
+                "createOrEditLabel": "Create or edit a Harsh"
+            },
+            "created": "A new Harsh is created with identifier {{ param }}",
+            "updated": "A Harsh is updated with identifier {{ param }}",
+            "deleted": "A Harsh is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Harsh {{ id }}?"
+            },
+            "detail": {
+                "title": "Harsh"
+            },
+            "arc": "Arc"
+        }
+    }
+}

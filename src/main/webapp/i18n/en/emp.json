@@ -1,0 +1,22 @@
+{
+    "gApp": {
+        "emp" : {
+            "home": {
+                "title": "Emps",
+                "createLabel": "Create a new Emp",
+                "createOrEditLabel": "Create or edit a Emp"
+            },
+            "created": "A new Emp is created with identifier {{ param }}",
+            "updated": "A Emp is updated with identifier {{ param }}",
+            "deleted": "A Emp is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Emp {{ id }}?"
+            },
+            "detail": {
+                "title": "Emp"
+            },
+            "name": "Name",
+            "age": "Age"
+        }
+    }
+}

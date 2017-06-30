@@ -1,0 +1,21 @@
+{
+    "gApp": {
+        "ar" : {
+            "home": {
+                "title": "Ars",
+                "createLabel": "Create a new Ar",
+                "createOrEditLabel": "Create or edit a Ar"
+            },
+            "created": "A new Ar is created with identifier {{ param }}",
+            "updated": "A Ar is updated with identifier {{ param }}",
+            "deleted": "A Ar is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Ar {{ id }}?"
+            },
+            "detail": {
+                "title": "Ar"
+            },
+            "name": "Name"
+        }
+    }
+}

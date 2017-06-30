@@ -1,0 +1,23 @@
+{
+    "gApp": {
+        "l" : {
+            "home": {
+                "title": "LS",
+                "createLabel": "Create a new L",
+                "createOrEditLabel": "Create or edit a L"
+            },
+            "created": "A new L is created with identifier {{ param }}",
+            "updated": "A L is updated with identifier {{ param }}",
+            "deleted": "A L is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete L {{ id }}?"
+            },
+            "detail": {
+                "title": "L"
+            },
+            "length": "Length",
+            "breadth": "Breadth",
+            "area": "Area"
+        }
+    }
+}

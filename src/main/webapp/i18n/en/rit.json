@@ -1,0 +1,21 @@
+{
+    "gApp": {
+        "rit" : {
+            "home": {
+                "title": "Rits",
+                "createLabel": "Create a new Rit",
+                "createOrEditLabel": "Create or edit a Rit"
+            },
+            "created": "A new Rit is created with identifier {{ param }}",
+            "updated": "A Rit is updated with identifier {{ param }}",
+            "deleted": "A Rit is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Rit {{ id }}?"
+            },
+            "detail": {
+                "title": "Rit"
+            },
+            "name": "Name"
+        }
+    }
+}
